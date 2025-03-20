@@ -1,4 +1,4 @@
-{% set version = "0.2.0" %}
+{% set version = "1.1.0" %}
 
 package:
   name: datazets
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/datazets/datazets-{{ version }}.tar.gz
-  sha256: 3c467c13778e6a0e60b2d7e90a1c0abc13b7c253d2a0bb6cd508e9469052c4dc
+  sha256: 27962c727f0c02f370153f183a81fc7e0b33277b95047324c60cae06bad15f99
 
 build:
   noarch: python
