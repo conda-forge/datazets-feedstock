@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.1.4"
+  version: "1.1.5"
 
 package:
   name: datazets
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/datazets/datazets-${{ version }}.tar.gz
-  sha256: 8c11d3a8d2ee2d49ef6d1f1512bdd33f7c7c592aa48267fe6e44ed7726e16b72
+  sha256: 2f880a19ae9f612fdc3365ac64f39500252ab9fed85748af7582e0db1f250c26
 
 build:
   number: 0
